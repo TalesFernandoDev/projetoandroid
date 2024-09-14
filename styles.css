@@ -67,7 +67,7 @@ p {
     text-indent: 30px;
     font-weight: bold;
 }
-
+ 
 main article a {
     color: green;
     text-decoration: none;
@@ -90,4 +90,12 @@ main img {
 
 .androids {
     text-indent: 0;
+} 
+
+.bugdroids {
+    height: 300px;
+    width: 500px;
+    margin-left: 500px;
+
 }
+
