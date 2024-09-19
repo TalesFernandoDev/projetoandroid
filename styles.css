@@ -99,3 +99,20 @@ main img {
 
 }
 
+article iframe {
+    width: 95%;
+    height: 600px;
+    border: 30px solid green;
+    
+}
+
+footer {
+    
+    background-color: green;
+}
+
+footer p {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
